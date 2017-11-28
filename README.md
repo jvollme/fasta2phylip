@@ -5,6 +5,10 @@ interleaved if '-r' is set) phylip format. Will raise error if alignments
 contain dots ("."), so replace those with dashes ("-") beforehand (e.g. using
 sed)
 
+#### Dependencies:
+ - python 2.7+
+ - biopython
+
 #### usage: 
 
 ````
